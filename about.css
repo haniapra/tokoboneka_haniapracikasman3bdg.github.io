@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Zilla Slab', serif;
+    margin: auto;
+}
+.profbox{
+    width: 450px;
+    height: 900px;
+    background-color: cornflowerblue;
+    padding: 30px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.profbox h1{
+    font-size: 3.5rem;
+    letter-spacing: 5;
+    color: midnightblue;
+    margin: 0 0 10px 0;
+    line-height: 60px;
+}
+.profbox h2{
+    font-size: 2rem;
+    letter-spacing: 3;
+    color: midnightblue;
+    margin: 0 0 10px 0;
+    line-height: 60px;
+}
+.profbox p{
+    color: black;
+    text-align: left;
+}
+.profbox h3{
+    color: mediumblue;
+    text-align: left;
+}
+.isi{
+    color: black;
+    text-align: left
+}
+.profpic{
+    border-radius: 49%;
+    object-fit: contain;
+    width: 50%;
+    border-style: solid;
+    border-color: white;
+    border-width: 4px;
+}
+.linebreak{
+    width: 140px;
+    margin: 0 auto;
+    border-top: 1px solid white;
+}
